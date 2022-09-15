@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo1{
+    display: flex;
+    
+}
+.Peliculas{
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    width: 1300px;
+    color: white;
+}
+section{ 
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    color: white;
+}
+
+.ordenfila2{
+    display: flex;
+    justify-content: space-around;
+}
+.Peli{
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 300px;
+
+}
+p{
+    height: 190px;   
+    text-align: center;
+}
+div{
+    justify-content: space-around;
+}
+.opciones{
+    display: flex;
+width: 100%;
+height: 400px;
+}
+.opciones section{
+    background-color: black;
+    position: absolute;
+    opacity: 0;
+    transition: .5s;
+}
+
+.opciones section:first-child{
+opacity: 1;
+}
+
+.opciones section:target{
+    opacity: 1;
+}
+
+.menu{
+text-align: center;
+margin: 50px;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.549);
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    border-radius: 100%;
+}
+.opcion1{
+    display: inline-block;
+    align-items: center;
+    color: white; 
+}
+section.h1{
+    color: red;
+    position: absolute;
+    justify-content: center;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.azul{
+    display: flex;
+    display: inline;
+    align-items: center;
+    color:rgb(199, 199, 216);
+    height: 30px;
+
+}
+footer{
+    display: flex;
+    color: white;
+    width: 100%;
+    justify-content: flex-end;
+  }
+.final{
+    display: flex;
+    display: inline;
+    width: 400px;
+    height: 20px;
+
+}

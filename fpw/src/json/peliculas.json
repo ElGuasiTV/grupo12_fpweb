@@ -1,0 +1,33 @@
+[
+    {
+        "img": "../img/FESTIVAL.jpg",
+        "titulo": "Festival Nick Jr",
+        "synopsis": "Por primera vez juntos en pantalla grande, llegan los personajes más queridos de Nick Jr:Paw Patrol, Santiago de Los Mares, Las Pistas de Blue y Tu! y Baby Shark. Esta increíble experiencia será presentada por nuestros amigos de Garden Academy quienes nos acompañarán en las aventuras más divertidas. Cada uno de los episodios exclusivos nos mostrará historias nunca antes vistas, con toda la magia de del cine para los más pequeños de la casa, de la mano de Nick Jr.",
+        "director": "-",
+        "reparto": "Paw Patrol, Santiago de Los Mares, Blues Clues, Baby Shark",
+        "duracion": "1h 30min"
+    },
+    {
+        "img": "../img/DBSH.jpg",
+        "titulo": "Dragon Ball:Super Hero",
+        "synopsis": "Secuela de Dragon Ball Super: Broly. Piccolo, personaje emblemático de la historia creada por Akira Toriyama, es el centro de la acción en esta nueva película. En esta ocasión, el Ejército Red Ribbon -al que se enfrentó Goku en el pasado- ha regresado con dos nuevos androides para desafiarle a él y a sus amigos.",
+        "director": "Tetsuro Kodama",
+        "reparto": "Masako Nozawa, Masako Nozawa, Toshio Furukawa",
+        "duracion": "1h 39min"
+    },
+    {
+        "img": "../img/Minions.jpg",
+        "titulo": "Minions:Nace un villano",
+        "synopsis": "Regresan los minions en una nueva aventura en la cual se encuentran con un joven Gru de tan solo 12 años cuyo único anhelo en la vida es convertirse en el villano más grande del mundo. Fanboy de un supergrupo de supervillanos conocido como Vicious 6, Gru trama un plan para volverse lo suficientemente malvado como para unirse a ellos, con el respaldo de sus seguidores, los Minions.",
+        "director": "Kyle Balda",
+        "reparto": "Steve Carell, Alan Arkin, Taraji P. Henson",
+        "duracion": "1h 28min"
+    },
+    {
+        "img": "../img/Thor.jpg",
+        "titulo": "Thor:Love and Thunder",
+        "synopsis": "Thor: Love and Thunder retoma la acción tras los sucesos ocurridos en Vengadores: Endgame. El dios del trueno decide retirarse y dejar la vida de superhéroe atrás. Después de abandonar la Nueva Asgard y dejarla en manos de su querida amiga Valquiria, Thor se marcha junto a los Guardianes de la Galaxia en un viaje que le lleva a plantearse su vida y su propia existencia. Pero este momento no le podrá durar mucho, ya que rápidamente tendrá que volver a la acción para enfrentarse a Gorr, un villano que ha planeado asesinar a todos los dioses. Pero esta no será la única casuística a la que tendrá que hacer frente el dios del trueno, por si fuera poco, su ex Jane Foster, quien ahora es la portadora del Mjölnir, también entra en escena.",
+        "director": "Taika Waititi",
+        "reparto": "Chris Hemsworth, Natalie Portman, Christian Bale","duracion": "1h 59min"
+    }
+]
